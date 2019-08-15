@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">YRSNuryana</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">WELCOME TO MY APPS</string>
+    <string name="slide_1_desc">Selamat Datang Di Aplikasi AppsYrs </string>
+
+    <string name="slide_2_title">TASK</string>
+    <string name="slide_2_desc">Untuk Memenuhi tugas UAS AKB</string>
+
+    <string name="slide_3_title">GOW</string>
+    <string name="slide_3_desc"></string>
+
+    <string name="slide_4_title">Santuy di aplikasi</string>
+    <string name="slide_4_desc">Nikmati Harimu Dengan kopi </string>
+
+
+    <!---->
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="friends">Friends</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim">NIM</string>
+    <string name="_10116323">10116348</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_8">IF - 8</string>
+    <string name="judul_tentang_saya">Tentang Saya</string>
+    <string name="kaizer_nugraha">Yaris Nuryana</string>
+    <string name="telp">08881233212</string>
+    <string name="email">yarisnuryana565@gmail.com</string>
+    <string name="wa">081203350945</string>
+    <string name="twitter">Yaris Nuryana</string>
+    <string name="ig">yaristonight</string>
+
+
+    <string name="tentang_saya">Saya adalah mahasiswa UNIKOM</string>
+    <string name="about_aplikasi">
+        Aplikasi ini akan di kembangkan untuk kenyamanan penggunanya.
+    </string>
+    <string name="tujuan">
+        Aplikasi ini dibuat untuk memenuhi UAS matakuliah Aplikasi Komputasi Bergerak.
+    </string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="teleponan">Telepon</string>
+    <string name="tv_email">Email</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="delete">Delete</string>
+    <string name="email_text">Email</string>
+    <string name="telepon">Telepon</string>
+
+
+</resources>
